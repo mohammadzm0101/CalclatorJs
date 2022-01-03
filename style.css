@@ -1,19 +1,12 @@
-
-
-.main{
+/* body
+{
     display: flex;
-   width: 100%;
-   height: 100%;
-   
-   
-    background-color: burlywood;
-    justify-content: center;
+    height: 500px;
     align-items: center;
-
+    justify-content: center;
 }
-.main>div{
-    background-color: rgb(14, 212, 238);
-    width: 20%;
-    height: 20%;
-
-}
+.btns
+{
+    width: 100px;
+    height: 100px;
+} */
